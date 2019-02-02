@@ -1,4 +1,4 @@
-package src.main.java.com.zzh;
+package src.main.java.com.zzh.test;
 
 /**
  * @author zzh
