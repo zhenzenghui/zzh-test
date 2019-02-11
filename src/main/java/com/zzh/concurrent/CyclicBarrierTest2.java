@@ -35,7 +35,7 @@ public class CyclicBarrierTest2 {
 }
 
 
-class A implements Runnable{
+class   A implements Runnable{
 
     @Override
     public void run() {
