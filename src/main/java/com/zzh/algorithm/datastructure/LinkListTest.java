@@ -1,6 +1,8 @@
 package src.main.java.com.zzh.algorithm.datastructure;
 
 /**
+ * 单链表
+ *
  * @author zzh
  * @date 2019/3/6
  */
@@ -15,11 +17,15 @@ public class LinkListTest {
 
         linkList.displayList();
 
-        while (!linkList.isEmpty()){
+        /*while (!linkList.isEmpty()){
             Link link = linkList.deleteFirst();
             System.out.print("delete :");
             link.displayLink();
-        }
+        }*/
+        Link link = linkList.find(44);
+        link.displayLink();
+        Link delete = linkList.delete(44);
+        delete.displayLink();
 
         linkList.displayList();
     }
@@ -51,6 +57,38 @@ class LinkList{
         Link temp = first;
         first = first.next;
         return temp;
+    }
+
+    //根据值去查找链表中的元素
+    public Link find(int key){
+        Link current = first;
+        while (current.iData != key){
+            if (current.next == null){
+                return null;
+            }
+            current = current.next;
+        }
+        return current;
+    }
+
+    //根据值去删除链表中的元素
+    public Link delete(int key){
+        Link current = first;
+        Link previous = first;
+
+        while (current.iData != key){
+            if (current.next == null){
+                return null;
+            }
+            previous = current;
+            current = current.next;
+        }
+        if (current == first){
+            first = current.next;
+        }else {
+            previous.next = current.next;
+        }
+        return current;
     }
 
     public void displayList(){
