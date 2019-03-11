@@ -1,6 +1,8 @@
 package src.main.java.com.zzh.algorithm.datastructure;
 
 /**
+ * 链表模拟栈
+ *
  * @author zzh
  * @date 2019/3/8
  */
