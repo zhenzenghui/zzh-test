@@ -1,6 +1,7 @@
 package src.main.java.com.zzh.algorithm.datastructure;
 
 /**
+ * 优先级队列
  * @author zzh
  * @date 2019/3/4
  */
