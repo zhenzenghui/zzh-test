@@ -10,6 +10,7 @@ APP_HOME_IS_UNDEFINED/
 user-web/.springBeans
 .cache-main
 .cache-tests
+*/.idea/
 .idea/
 */*.iml
 *.iml

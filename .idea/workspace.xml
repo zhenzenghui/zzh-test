@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac9666dd-19df-4e3b-a893-0ae4aa15a109" name="Default Changelist" comment="" />
+    <list default="true" id="ac9666dd-19df-4e3b-a893-0ae4aa15a109" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zzh-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zzh-test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +18,7 @@
     <session id="426491230">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
@@ -23,43 +29,43 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="gitignore" value="3" />
+          <entry key="class" value="2" />
+          <entry key="gitignore" value="5" />
           <entry key="iml" value="1" />
-          <entry key="java" value="29" />
+          <entry key="java" value="30" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="29" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JAVA" value="30" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="java" value="13978" />
+          <entry key="gitignore" value="18" />
+          <entry key="java" value="14014" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13978" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="14014" />
+          <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/concurrent/four/Profiler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="e#240#384#0" expanded="true" />
                 <element signature="e#383#384#0" expanded="true" />
@@ -67,6 +73,48 @@
                 <element signature="e#487#488#0" expanded="true" />
                 <element signature="e#524#525#0" expanded="true" />
                 <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/zzh-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#854#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/StackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/QueueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/LinkListTest.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/LinkStackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/LinkQueueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/PriorityQueryTest.java" />
@@ -113,6 +160,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/concurrent/WaitNotifyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/concurrent/four/PipedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/concurrent/four/Profiler.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzh/test/Test2.java" />
+        <option value="$PROJECT_DIR$/out/production/zzh-test/.gitignore" />
       </list>
     </option>
   </component>
@@ -164,6 +214,11 @@
             <path>
               <item name="zzh-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="zzh-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzh-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzh-test" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zzh-test" type="b2602c69:ProjectViewProjectNode" />
@@ -231,7 +286,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552892095586" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552893537990" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -252,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Profiler">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="DoublyLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.algorithm.datastructure.DoublyLinked" />
       <module name="zzh-test" />
@@ -292,12 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.algorithm.datastructure.SortListTest" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.test.Test2" />
       <module name="zzh-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.main.java.com.zzh.algorithm.datastructure.*" />
+          <option name="PATTERN" value="src.main.java.com.zzh.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,19 +374,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortListTest" />
       <item itemvalue="Application.DoublyLinked" />
       <item itemvalue="Application.WaitNotifyTest" />
       <item itemvalue="Application.PipedTest" />
       <item itemvalue="Application.Profiler" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Profiler" />
         <item itemvalue="Application.PipedTest" />
         <item itemvalue="Application.WaitNotifyTest" />
         <item itemvalue="Application.DoublyLinked" />
-        <item itemvalue="Application.SortListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -366,16 +421,15 @@
       <workItem from="1552267886444" duration="1256000" />
       <workItem from="1552391798257" duration="2648000" />
       <workItem from="1552468438740" duration="12648000" />
-      <workItem from="1552889679225" duration="2111000" />
+      <workItem from="1552889679225" duration="3472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59733000" />
+    <option name="totallyTimeSpent" value="61094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3304721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -607,13 +661,6 @@
         <state relative-caret-position="-15" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -623,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/concurrent/four/Profiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="e#240#384#0" expanded="true" />
             <element signature="e#383#384#0" expanded="true" />
@@ -633,6 +680,40 @@
             <element signature="e#524#525#0" expanded="true" />
             <element signature="e#598#599#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/concurrent/four/Profiler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/zzh-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
