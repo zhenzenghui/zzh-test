@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac9666dd-19df-4e3b-a893-0ae4aa15a109" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/algorithm/datastructure/AnagramTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zzh-test/src/main/java/com/zzh/algorithm/datastructure/AnagramTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +28,7 @@
           <entry key="class" value="2" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="1" />
-          <entry key="java" value="32" />
+          <entry key="java" value="33" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -36,7 +36,7 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="32" />
+          <entry key="JAVA" value="33" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="2" />
         </counts>
@@ -44,12 +44,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="18" />
-          <entry key="java" value="14823" />
+          <entry key="java" value="15223" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14823" />
+          <entry key="JAVA" value="15223" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
@@ -57,14 +57,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/AnagramTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/algorithm/sort/TowerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -113,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/test/Test2.java" />
         <option value="$PROJECT_DIR$/out/production/zzh-test/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/AnagramTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/sort/TowerTest.java" />
       </list>
     </option>
   </component>
@@ -218,6 +228,17 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="datastructure" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zzh-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzh-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zzh" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -229,7 +250,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552996219230" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552999293912" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -250,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnagramTest">
+  <component name="RunManager" selected="Application.TowerTest">
     <configuration name="AnagramTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.algorithm.datastructure.AnagramTest" />
       <module name="zzh-test" />
@@ -303,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.concurrent.four.WaitNotifyTest" />
+    <configuration name="TowerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.com.zzh.algorithm.sort.TowerTest" />
       <module name="zzh-test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.main.java.com.zzh.concurrent.four.*" />
+          <option name="PATTERN" value="src.main.java.com.zzh.algorithm.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,19 +338,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WaitNotifyTest" />
       <item itemvalue="Application.PipedTest" />
       <item itemvalue="Application.Profiler" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.AnagramTest" />
+      <item itemvalue="Application.TowerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TowerTest" />
         <item itemvalue="Application.AnagramTest" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Profiler" />
         <item itemvalue="Application.PipedTest" />
-        <item itemvalue="Application.WaitNotifyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -366,12 +387,12 @@
       <workItem from="1552468438740" duration="12648000" />
       <workItem from="1552889679225" duration="3472000" />
       <workItem from="1552893753476" duration="1212000" />
-      <workItem from="1552958887766" duration="3030000" />
+      <workItem from="1552958887766" duration="5128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65336000" />
+    <option name="totallyTimeSpent" value="67434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -385,7 +406,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4708798" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39653036" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -630,11 +651,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/AnagramTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/algorithm/sort/TowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
