@@ -29,12 +29,12 @@ public class EnumSingleton {
         return Singleton.INSTANCE.getInstance();
     }
 
-    private static enum Singleton{
+    private enum Singleton{
         INSTANCE;
 
         private EnumSingleton enumSingleton;
 
-        private Singleton(){
+        Singleton(){
             enumSingleton = new EnumSingleton();
         }
 
