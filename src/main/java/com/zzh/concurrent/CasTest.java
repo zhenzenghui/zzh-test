@@ -68,6 +68,8 @@ class Counter{
                 break;
             }
         }
+        //atomicInteger.getAndIncrement();
+        //atomicInteger.incrementAndGet();
 
     }
 
