@@ -65,13 +65,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="18" />
-          <entry key="java" value="32259" />
+          <entry key="java" value="32266" />
           <entry key="md" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="32259" />
+          <entry key="JAVA" value="32266" />
           <entry key="Markdown" value="30" />
           <entry key="PLAIN_TEXT" value="18" />
         </counts>
@@ -95,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/thread/PipedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="370">
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
@@ -343,7 +343,7 @@
     <property name="SearchEverywhereHistoryKey" value="workspace.xml &#9;FILE&#9;file:///zzh-resource/zzh-test/.idea/workspace.xml&#10;Reent&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562226056002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562291833220" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -508,17 +508,17 @@
       <workItem from="1561452687009" duration="9708000" />
       <workItem from="1561700033215" duration="977000" />
       <workItem from="1561969932240" duration="6514000" />
-      <workItem from="1562220542447" duration="1609000" />
+      <workItem from="1562220542447" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145322000" />
+    <option name="totallyTimeSpent" value="146590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-98" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.1256656" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49848944" visible="true" weight="0.1256656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -527,14 +527,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.50151056" side_tool="true" weight="0.12300319" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.354399" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35359675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42046607" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928064" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2847011" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2847011" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32928064" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
@@ -916,8 +916,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/thread/PipedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="370">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
