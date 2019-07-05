@@ -92,16 +92,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/thread/PipedTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
+            <state relative-caret-position="683">
               <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
                 <element signature="e#334#335#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -158,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/sort/InsertSortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/StackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/QueueTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/algorithm/datastructure/LinkListTest.java" />
@@ -209,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/test/thread/ThreadStatusTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/test/thread/SleepUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzh/test/thread/PipedTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -343,7 +352,7 @@
     <property name="SearchEverywhereHistoryKey" value="workspace.xml &#9;FILE&#9;file:///zzh-resource/zzh-test/.idea/workspace.xml&#10;Reent&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562291833220" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562291971485" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -508,12 +517,12 @@
       <workItem from="1561452687009" duration="9708000" />
       <workItem from="1561700033215" duration="977000" />
       <workItem from="1561969932240" duration="6514000" />
-      <workItem from="1562220542447" duration="2877000" />
+      <workItem from="1562220542447" duration="3170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146590000" />
+    <option name="totallyTimeSpent" value="146883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-98" width="1920" height="1080" extended-state="0" />
@@ -862,9 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-57">
@@ -916,13 +922,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzh/test/thread/PipedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="683">
           <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#334#335#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="55" lean-forward="true" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
         </state>
       </provider>
     </entry>
