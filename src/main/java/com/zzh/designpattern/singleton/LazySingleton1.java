@@ -1,8 +1,8 @@
 package src.main.java.com.zzh.designpattern.singleton;
 
 /**
- * 单例模式   该模式的特点是类加载的时候没有生成单例，只有第一次调用getInstance方法的时候才去创建这个实例。
- * 懒加载模式
+ * 单例模式
+ * 懒加载模式   该模式的特点是类加载的时候没有生成单例，只有第一次调用getInstance方法的时候才去创建这个实例。
  * 双重检查锁定
  *
  * @author zzh
