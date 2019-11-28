@@ -1,6 +1,7 @@
 package src.main.java.com.zzh.designpattern.observer;
 
 /**
+ * 具体买家2
  * @author zzh
  * @date 2019/11/28
  */
